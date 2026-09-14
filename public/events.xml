@@ -3,101 +3,58 @@
 <events>
  <track type="1" name="early">
   <event>
-    <title>Julius Caesar invades Britain</title>
+    <title>Siege of Jerusalem</title>
     <date type="start">
-      <year>55</year>
+      <year>589</year>
       <era>BC</era>
     </date>
     <date type="end">
-      <year>54</year>
+      <year>587</year>
       <era>BC</era>
     </date>
-    <description>Julius Caesar led the first Roman expedition to Britain, landing on the Kent coast.</description>
-    <lat>51.1789</lat>
-    <lon>1.1713</lon>
-  </event>
-
-  <event>
-    <title>Battle of Actium</title>
-    <date type="start">
-      <year>31</year>
-      <month>09</month>
-      <era>BC</era>
-    </date>
-    <date type="end">
-    <year>10</year>
-    <month>07</month>
-    <era>BC</era>
-    </date>
-    <description>Octavian defeated the combined forces of Mark Antony and Cleopatra, becoming Rome's first emperor.</description>
-    <lat>38.9419</lat>
-    <lon>20.7400</lon>
+    <description>Jerusalem was besieged, marking the final phase of Judah's revolts against Babylon.</description>
+    <lat>31.76904</lat>
+    <lon>35.21633</lon>
   </event>
   </track>
  
  <track type="2" name="mid">
   <event>
-    <title>Storming of the Bastille</title>
+    <title>The Bubonic Plague</title>
     <date type="start">
-      <year>1789</year>
-      <month>07</month>
-      <day>14</day>
+      <year>1346</year>
+      <month></month>
+      <day></day>
       <era>AD</era>
     </date>
     <date type="end">
-    </date>
-    <description>Parisian crowds stormed the Bastille fortress, marking the start of the French Revolution.</description>
-    <lat>48.8533</lat>
-    <lon>2.3692</lon>
-    <media>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Prise_de_la_Bastille.jpg/640px-Prise_de_la_Bastille.jpg</media>
-  </event>
- 
-  <event>
-    <title>Declaration of the Rights of Man</title>
-    <date type="start">
-      <year>1789</year>
-      <month>08</month>
-      <day>26</day>
+      <year>1353</year>
+      <month></month>
+      <day></day>
       <era>AD</era>
     </date>
-    <date type="end">
-    </date>
-    <description>The National Constituent Assembly adopted this foundational document of human rights.</description>
-    <lat>48.8566</lat>
-    <lon>2.3522</lon>
-  </event>
- 
-  <event>
-    <title>Execution of Louis XVI</title>
-    <date type="start">
-      <year>1793</year>
-      <month>01</month>
-      <day>21</day>
-      <era>AD</era>
-    </date>
-    <date type="end">
-    </date>
-    <description>King Louis XVI was guillotined at the Place de la Révolution in Paris.</description>
-    <lat>48.8656</lat>
-    <lon>2.3212</lon>
+    <description> The Black Death was a plague pandemic that originated in China which then spread to Europe. It was one of the most fatal pandemics in human history, leading to the death of up to 50 million people, or 50% of Europe's 14th-century population.</description>
+    <lat>35.86166</lat>
+    <lon>104.195397</lon>
+    <media></media>
   </event>
  </track>
 
 <track type="3" name="late">
   <event>
-    <title>Napoleon crowned Emperor</title>
+    <title>Eruption of Mount St. Helens</title>
     <date type="start">
-      <year>1804</year>
-      <month>12</month>
-      <day>02</day>
+      <year>1980</year>
+      <month>5</month>
+      <day>18</day>
       <era>AD</era>
     </date>
     <date type="end">
     </date>
-    <description>Napoleon Bonaparte crowned himself Emperor of the French at Notre-Dame de Paris.</description>
-    <lat>48.8530</lat>
-    <lon>2.3499</lon>
-    <media>https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/David_-_Napoleon_at_the_Saint-Bernard_Pass%2C_20_May_1800.jpg/480px-David_-_Napoleon_at_the_Saint-Bernard_Pass%2C_20_May_1800.jpg</media>
+    <description>Left a massive volcanic eruption in Washington that caused a powerful blast, landslide, and widespread destruction.</description>
+    <lat>46.1912</lat>
+    <lon>-122.1944</lon>
+    <media></media>
   </event>
  </track>
 </events>
