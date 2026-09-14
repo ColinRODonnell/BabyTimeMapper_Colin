@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--This is an example xml filled with random events, feel free to copy and paste your own events over these ones from the template!-->
+<events>
+ <track type="1" name="early">
+  <event>
+    <title>Siege of Jerusalem</title>
+    <date type="start">
+      <year>589</year>
+      <era>BC</era>
+    </date>
+    <date type="end">
+      <year>587</year>
+      <era>BC</era>
+    </date>
+    <description>Jerusalem was besieged, marking the final phase of Judah's revolts against Babylon.</description>
+    <lat>31.76904</lat>
+    <lon>35.21633</lon>
+  </event>
+  </track>
+ 
+ <track type="2" name="mid">
+  <event>
+    <title>The Bubonic Plague</title>
+    <date type="start">
+      <year>1346</year>
+      <month></month>
+      <day></day>
+      <era>AD</era>
+    </date>
+    <date type="end">
+      <year>1353</year>
+      <month></month>
+      <day></day>
+      <era>AD</era>
+    </date>
+    <description> The Black Death was a plague pandemic that originated in China which then spread to Europe. It was one of the most fatal pandemics in human history, leading to the death of up to 50 million people, or 50% of Europe's 14th-century population.</description>
+    <lat>35.86166</lat>
+    <lon>104.195397</lon>
+    <media></media>
+  </event>
+ </track>
+
+<track type="3" name="late">
+  <event>
+    <title>Eruption of Mount St. Helens</title>
+    <date type="start">
+      <year>1980</year>
+      <month>5</month>
+      <day>18</day>
+      <era>AD</era>
+    </date>
+    <date type="end">
+    </date>
+    <description>Left a massive volcanic eruption in Washington that caused a powerful blast, landslide, and widespread destruction.</description>
+    <lat>46.1912</lat>
+    <lon>-122.1944</lon>
+    <media></media>
+  </event>
+ </track>
+</events>
