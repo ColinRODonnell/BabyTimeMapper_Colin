@@ -1,0 +1,21 @@
+start = element events {
+    element track {
+        attribute type { text },
+        attribute name { text },
+        element event {
+            element title { text },
+            element date {
+                attribute type { text },
+                element year { text },
+                element month { text }?,
+                element day { text }?,
+                element era { text }
+            },
+            element description { text },
+            element lat { text },
+            element lon { text },
+#            Just like regex "?" means it may or may not contain that thing. - Colin
+            element media { text }?
+        }
+    }+
+}
